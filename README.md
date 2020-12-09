@@ -1,4 +1,4 @@
-# CoronaVirus Countries Cases Count
+# CoronaVirus Countries Cases Count using API
 ###### Code Patteren: MVVM
 ###### State Manager: GetX
 ###### Dependency Injection: Bindings
