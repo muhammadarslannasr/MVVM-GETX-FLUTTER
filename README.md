@@ -1,3 +1,5 @@
-# CoronaVirus Countries Cases Count: 
-## The second largest heading
-###### The smallest heading
+# CoronaVirus Countries Cases Count
+###### Code Patteren: MVVM
+###### State Manager: GetX
+###### Dependency Injection: Bindings
+###### Rest API
